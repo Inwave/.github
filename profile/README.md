@@ -4,6 +4,6 @@ Acreditamos que o varejo pode fazer mais e melhor. Esse é o nosso propósito: c
 
 ---
 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="drawing" width="20"/> [Nosso site](https://www.inwave.com.br)  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="drawing" width="20"/> [Nosso Linkedin](https://www.linkedin.com/company/inwavebrasil/)
   
-<img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="drawing" width="20"/> [Nosso Linkedin](https://www.linkedin.com/company/inwavebrasil/)
+<img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" alt="drawing" width="20"/> [Nosso site](https://www.inwave.com.br)  
